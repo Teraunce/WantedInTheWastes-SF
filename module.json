@@ -1,0 +1,32 @@
+{
+    "name": "Wanted-in-the-Wastes-SF",
+    "title": "Wanted in the Wastes (Starfinder)",
+    "description": "A module containing the exported Wanted in the Wastes (Starfinder) compendium.",
+    "version": "1.0.0",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "compatibility": {
+        "minimum": 10,
+        "verified": 10,
+        "maximum": 11
+    },
+    "authors": [
+        {
+            "name": "Legendary Games, Teraunce Foaloke",
+            "email": "",
+            "url": ""
+        }
+    ],
+    "packs": [
+        {
+            "type": "Adventure",
+            "label": "Wanted in the Wastes",
+            "module": "Wanted-in-the-Wastes-SF",
+            "path": "packs/legendary-planet-sf-wanted-in-the-wastes-1676500822160.db",
+            "name": "legendary-planet-sf-wanted-in-the-wastes-1676500822160",
+            "system": "sfrpg"
+        }
+    ],
+    "manifest": "http://localhost:30000/compendium2module/Wanted-in-the-Wastes-SF/module.json",
+    "download": "http://localhost:30000/compendium2module/Wanted-in-the-Wastes-SF/module-zip.txt"
+}
