@@ -12,10 +12,16 @@
     },
     "authors": [
         {
-            "name": "Legendary Games, Teraunce Foaloke",
-            "email": "",
-            "url": ""
-        }
+            "name": "Legendary Games",
+            "email": "makeyourgamelegendary@gmail.com",
+            "url": "https://www.makeyourgamelegendary.com",
+			"Facebook": "https://www.facebook.com/makeyourgamelegendary",
+			"Twitter": "@LegendaryGamesJ"
+        },
+		{
+			"name": "Teraunce Foaloke",
+			"email": "Teraunce@gmail.com"
+		}
     ],
     "packs": [
         {
@@ -27,6 +33,6 @@
             "system": "sfrpg"
         }
     ],
-    "manifest": "http://localhost:30000/compendium2module/Wanted-in-the-Wastes-SF/module.json",
-    "download": "http://localhost:30000/compendium2module/Wanted-in-the-Wastes-SF/module-zip.txt"
+    "manifest": "https://raw.githubusercontent.com/Teraunce/WantedInTheWastes-SF/main/module.json",
+    "download": "https://github.com/Teraunce/WantedInTheWastes-SF/blob/main/module-zip.txt?raw=true"
 }
